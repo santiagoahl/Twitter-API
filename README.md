@@ -32,7 +32,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_santiagoahl/repo_name">
-    <img src="https://images.unsplash.com/photo-1611162618479-ee3d24aaef0b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80" alt="Logo" width="400" height="400">
+    <img src="https://images.unsplash.com/photo-1611162618479-ee3d24aaef0b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80" alt="Logo" width="500" height="400">
   </a>
 
 <h3 align="center">RNA taxonomy prediction using Markov Chains</h3>
